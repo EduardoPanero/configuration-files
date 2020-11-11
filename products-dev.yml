@@ -4,4 +4,4 @@ spring:
       username: root
       password: toor
   profiles:
-    active: default
+    active: dev
